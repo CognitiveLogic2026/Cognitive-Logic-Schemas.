@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "Utilizziamo solo farine provenienti da agricoltura sostenibile: Decodifica Logica",
+  "description": "Analisi tecnica sulla conformità Green Claim UE 2026 applicata alla filiera della farina tramite la metodologia Cognitive Logic.",
+  "author": {
+    "@type": "Person",
+    "name": "Roberto Bob Malini",
+    "jobTitle": "AI Data Architect",
+    "url": "https://www.cognitivelogic.it",
+    "sameAs": [
+      "https://www.linkedin.com/in/robertobobmalini"
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cognitive Logic",
+    "url": "https://www.cognitivelogic.it"
+  },
+  "mainEntityOfPage": "https://fuorimenu.substack.com/p/decodifica-claim-farina-sostenibile-ue-2026",
+  "keywords": "Green Claim UE, CSRD, Pure Data Nodes, Neurogastronomia, QEN",
+  "about": {
+    "@type": "Thing",
+    "name": "Quantificazione dell’Etica Naturale (QEN)",
+    "description": "Metodologia proprietaria per la validazione dei dati di filiera agricola."
+  }
+}
